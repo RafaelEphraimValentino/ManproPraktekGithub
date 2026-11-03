@@ -1,2 +1,3 @@
 "isi file pertama" 
 tambah isi file 1 dari github
+menjadi kaya vs tetap kaya
